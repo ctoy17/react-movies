@@ -1,0 +1,37 @@
+.form-container{
+    font-family: 'roboto', sans-serif;
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0, 0, 0, 0.3); /* Black w/opacity/see-through */
+    color: #d0d0d0;
+    font-weight: bold;
+    border: 3px solid black;
+    z-index: 2;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+.form-content{
+    margin-top: 35px;
+    font-weight: 100;
+    text-transform: uppercase;
+}
+form>input{
+    background-color: #b1b1b1;
+    width: 50%;
+    margin: 10% 0;
+}
+input::placeholder{
+    font-size: .7em;
+    text-align: center;
+}
+form>button{
+    width: 50%;
+    font-weight: 100;
+    background-color: rgba(254, 255, 185, 0.5);
+}

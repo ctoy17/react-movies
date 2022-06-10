@@ -1,0 +1,12 @@
+nav{
+    color: #d0d0d0;
+    font-family: 'roboto', sans-serif;
+    font-weight: bold;
+    border: 3px 0 3px 0 solid black;
+    font-size: 2em;
+    padding: 0 25px 10px 25px;
+}
+a{
+    color: #d0d0d0;
+    text-transform: uppercase;
+}

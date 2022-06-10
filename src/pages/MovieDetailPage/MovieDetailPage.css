@@ -1,0 +1,25 @@
+.movieDetails {
+    display: flex;
+    justify-content: space-around;
+    margin: 10%;
+    margin-top: 20px;
+}
+
+.movieText {
+    border: 3px solid black;
+    padding: 30px;
+    text-align: center;
+    color: #d0d0d0;
+    margin-right: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+li{
+    list-style: none;
+}
+
+img{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+
+}

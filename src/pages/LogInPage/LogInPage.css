@@ -1,0 +1,27 @@
+.LogIn{
+    margin-top: 15%;
+    font-family: 'Nothing You Could Do', cursive;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.neon {
+    transform:rotate(-10deg);
+    color: rgb(254, 255, 185);
+    text-shadow:
+        0 0 5px #fff,
+        0 0 10px #fff,
+        0 0 20px #d0d0d0,
+        0 0 40px #d0d0d0,
+        0 0 80px #d0d0d0,
+        0 0 90px #d0d0d0,
+        0 0 100px #d0d0d0,
+        0 0 150px #d0d0d0;
+    font-size: 6rem;
+    padding-bottom: 15%;
+
+}
+
+
+
+

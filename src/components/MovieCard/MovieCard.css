@@ -1,0 +1,37 @@
+.card{
+    max-width: 500px;
+    margin: auto;
+    display: flex;
+}
+.card-title{
+    font-size: 2em;
+    font-family: 'roboto', sans-serif;
+    color: #d0d0d0;
+    text-transform: uppercase;
+}
+.card-subtitle{
+    font-size: 1em;
+    font-family: 'roboto', sans-serif;
+    color: #d0d0d0;
+    text-transform: uppercase;
+}
+.MovieCard{
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1vw;
+    border-radius: 5px;
+    text-align: center;
+    height: 30vh;
+    width: 30vw;
+}
+
+.card-overlay-caption{
+    background: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    padding: 5% 5% 5% 5%;
+}
